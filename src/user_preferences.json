@@ -1,0 +1,9 @@
+{
+    "frequency": "daily",
+    "send_email": true,
+    "send_sms": false,
+    "to_email": "alexandra.matasa@yahoo.co",
+    "to_phone": "",
+    "city": "grinties",
+    "notification_preference": "full-weather"
+}
